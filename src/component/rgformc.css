@@ -1,0 +1,39 @@
+#Regif{
+    background-color: #ff4365;
+    width: 400px;
+    margin: 100px 650Px 0px;
+    border-radius: 10px;
+    box-shadow: 5px 10px grey;
+    font-size: 20px;
+}
+
+h1{
+    font-size: 30px;
+}
+
+#divbox{
+   padding-top: 20px;
+   padding-bottom: 20px;
+   margin-left: 10px;
+}
+
+input{
+    border-radius: 5px;
+    width: 90%;
+    height: 25px;
+}
+
+.button{
+    background-color: white;
+}
+
+.button:hover{
+      cursor: pointer;
+      background-color: brown;
+      color: lightcoral;
+      font-size: 22px;
+}
+
+#errorMsgp{
+    color: black;
+}
